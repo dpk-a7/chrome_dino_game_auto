@@ -1,4 +1,4 @@
-# This is fun program I wrote to automate Google Crome Dino game.
+# This is fun program I wrote to automate Google Chrome Dino game.
 ### Prerequisite modules:
 * pyautogui
 * pillow
