@@ -5,4 +5,5 @@
 * selenium
 * webdriver_manager
 * time
+<br>
 To run => <span style="background-color: #FFFF00">python chrome_dino_Game.py</span>
