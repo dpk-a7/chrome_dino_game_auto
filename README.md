@@ -1,4 +1,4 @@
-# This is fun program I wrote to automate Google Chrome Dino game. High Score reached is 945
+# This is fun program I wrote to automate Google Chrome Dino game. Highest Score reached is 945
 ### Prerequisite modules:
 * pyautogui
 * pillow
